@@ -1,0 +1,11 @@
+{
+  "id": "lineworks",
+  "name": "LINE WORKS",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": "https://github.com/ferdium/ferdium-recipes",
+  "config": {
+    "hasIndirectMessages": true,
+    "serviceURL": "https://talk.worksmobile.com/"
+  }
+}
